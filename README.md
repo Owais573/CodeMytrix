@@ -17,6 +17,10 @@
 - **Responsive UI**: Designed to work seamlessly across devices.
 - **Customizable UI**: Built with **Tailwind CSS** and **ShadCN-UI** components for a sleek and flexible design.
 
+## For Preview
+
+Visit https://codemytrix.supdevx.com 
+
 ## Installation
 
 To run CodeMytrix locally, follow these steps:
