@@ -19,7 +19,7 @@ interface ChatAssistantProps {
 }
 
 // Hardcoded API key for Together.xyz (same as used in CodeGenerator.tsx)
-const TOGETHER_API_KEY = "564d895041782b5f23d146f57dcd6c4aaf15970196f75cd04830473ce6365719";
+const TOGETHER_API_KEY = "Enter_Your_Together_API_KEY";
 
 const ChatAssistant: React.FC<ChatAssistantProps> = ({
   onSendMessage,
